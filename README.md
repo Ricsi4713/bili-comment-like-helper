@@ -4,6 +4,9 @@
 
 本项目是我的第一个开源项目，并且主要使用GPT5.5制作。
 
+[Github链接](https://github.com/Ricsi4713/bili-comment-like-helper）
+[bilibli链接](https://space.bilibili.com/42254819）
+
 ## 核心功能
 
 ### 自动扫描评论点赞按钮
@@ -55,11 +58,13 @@
 
 ## 🛠️ 安装指南 (Installation)
 
-1. **安装浏览器插件管理器**：
-   * 推荐安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 插件（支持 Chrome / Edge / Firefox / Safari）。
+1. **安装油猴**：
+   * 安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 插件（支持 Chrome / Edge / Firefox / Safari）。
 2. **安装本脚本**：
+   * 通过[greasyfork.org](https://greasyfork.org/zh-CN/scripts/576946-bilibili-%E5%8A%A8%E6%80%81%E8%AF%84%E8%AE%BA%E6%89%B9%E9%87%8F%E7%82%B9%E8%B5%9E%E5%8A%A9%E6%89%8B)点击安装。
+     * 若无法通过greasyfork.org请按以下方式手动安装。
    * 在 Tampermonkey 中点击 **“添加新脚本”**。
-   * 将本仓库中的脚本源码（`bili-danmaku-assistant.js`）全选复制并粘贴进去。
+   * 将本仓库中的脚本源码（`bili-danmaku-assistant.js`）全选复制并粘贴进去，或下载bili-danmaku-assistant.js导入
    * 点击 **文件 -> 保存** (或 `Ctrl+S`)。
 3. **打开 B 站动态页面**
 
