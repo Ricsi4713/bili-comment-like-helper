@@ -4,9 +4,9 @@
 
 本项目是我的第一个开源项目，并且主要使用GPT5.5制作。
 
-[Github链接](https://github.com/Ricsi4713/bili-comment-like-helper）
+[Github链接](https://github.com/Ricsi4713/bili-comment-like-helper)
 
-[bilibli链接](https://space.bilibili.com/42254819）
+[bilibli链接](https://space.bilibili.com/42254819)
 
 ## 核心功能
 
